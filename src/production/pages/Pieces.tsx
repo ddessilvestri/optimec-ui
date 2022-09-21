@@ -2,6 +2,6 @@
 
 export const Pieces = () => {
   return (
-    <div>Pieces</div>
+    <h1 className="animate__animated animate__bounce">Pieces</h1>
   )
 }

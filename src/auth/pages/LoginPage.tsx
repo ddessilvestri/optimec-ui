@@ -2,6 +2,8 @@
 
 export const LoginPage = () => {
   return (
-    <div>LoginPage</div>
+    <>
+      <h1 className="animate__animated animate__bounce">LogOut</h1>
+    </>
   )
 }
