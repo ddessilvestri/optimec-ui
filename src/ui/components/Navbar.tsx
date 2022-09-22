@@ -28,6 +28,13 @@ export const Navbar = () => {
                     >
                         Pieces
                     </NavLink>
+
+                    <NavLink 
+                        className="nav-item nav-link" 
+                        to="/orders"
+                    >
+                        Orders
+                    </NavLink>
                 </div>
             </div>
 
